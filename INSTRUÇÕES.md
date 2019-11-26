@@ -20,6 +20,7 @@
 ![Exemplo de circuito](https://user-images.githubusercontent.com/54714661/69645040-420a1900-1044-11ea-886b-0c98e63200a9.png)
 
 ## Tabela verdade gerada pela solução do circuito:
+![HMMMMM](https://user-images.githubusercontent.com/54714661/69645634-3b2fd600-1045-11ea-90c2-6ff347fe41b5.png)
 
 
 # - Lista de outras expressões lógicas:
