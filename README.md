@@ -2,8 +2,8 @@
 ## O programa em questão consiste em solucionar circuitos lógicos e gerar tabelas verdade para eles.Para utilizá-lo você deve seguir as seguintes instruções: 
 
 # 1. Com o repositório do github aberto, baixe a pasta "Projeto";
-# 2. Agora que você tem o programa em mãos, pegue os arquivos de texto com os circuitos a serem resolvidos, na pasta circuitos;
-# 3. O arquivo "circuit" é o que será lido pelo programa,então você deverá colar a expressão lógica que deseja que o programa resolva nele.
+# 2. Agora que você tem o programa em mãos, pegue as expressões lógicas dos circuitos a serem resolvidos,essas estarão dispostas abaixo;
+# 3. O arquivo "circuit" é o que será lido pelo programa,então é nele que você deverá colar a expressão lógica que deseja que o programa solucione.
 
 ## - Expressão lógica exemplo:
 ### NOT 1 4
