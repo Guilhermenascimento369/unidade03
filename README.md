@@ -17,6 +17,9 @@
 ### OUTPUT 6 S
 
 ## Circuito que representa essa expressão:
+![Exemplo de circuito](https://user-images.githubusercontent.com/54714661/69645040-420a1900-1044-11ea-886b-0c98e63200a9.png)
+
+## Tabela verdade gerada pela solução do circuito:
 
 
 # - Lista de outras expressões lógicas:
