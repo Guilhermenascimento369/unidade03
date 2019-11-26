@@ -1,4 +1,4 @@
-**# Instruções de uso do programa**
+# **Instruções de uso do programa**
 ## O programa em questão consiste em solucionar circuitos lógicos e gerar tabelas verdade para eles.Para utilizá-lo você deve seguir as seguintes instruções: 
 
 # 1. Com o repositório do github aberto, baixe a pasta "Projeto";
