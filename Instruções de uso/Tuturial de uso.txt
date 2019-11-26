@@ -1,0 +1,8 @@
+-----------INSTRUÇÕES DE USO DO PROGRAMA-----------
+O programa em questão consiste em solucionar circuitos lógicos e gerar tabelas verdade para eles.Para utilizá-lo você
+deve seguir as seguintes instruções:
+
+->Com o repositório do github aberto, clique na pasta "Projeto";
+->Clique no arquivo executável, e em seguida em "view raw";
+-> Agora que você tem o programa em mãos, baixe os arquivos de texto com os circuitos exemplos a serem resolvidos, na pasta circuitos.
+-> O arquivo "circuit" é o que será lido pelo programa, para alterá-lo, basta copiar nele a expressão logica de outro circuito.

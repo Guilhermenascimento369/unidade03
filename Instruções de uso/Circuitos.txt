@@ -1,3 +1,6 @@
+-------------Circuitos para testar no programa----------
+Esse arquivo contém algumas expressões lógicas de circuitos, que podem ser testados no programa.
+
 CIRCUIT Level 13
 INPUT 1 A
 INPUT 2 B
@@ -16,7 +19,7 @@ AND 12 13 14
 OUTPUT 14 S
 
 
-CIRCUIT Expressao logica
+CIRCUIT Expressao logica (Circuito exemplo)
 NOT 1 4
 AND 2 3 8
 NOR 4 8 7
